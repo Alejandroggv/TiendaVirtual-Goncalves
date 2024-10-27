@@ -49,7 +49,7 @@ El objetivo es desarrollar una base de datos que permita a TiendaVirtual gestion
 
 ---
 
-✏️ Descripción de la Base de Datos - Tienda de Comercio Online
+✏️ Descripción de la Base de Datos - Tienda Virtual
 
 ### La base de datos constará de las siguientes tablas principales:
 
