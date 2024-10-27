@@ -107,6 +107,6 @@ Sueldo: Sueldo del Trabajador.
 
 🌴 DER 
 
-**[![DER.png](https://i.postimg.cc/gJVsQtmR/DER.png)](https://postimg.cc/r0p5tJdF)**
+[![DER.png](https://i.postimg.cc/gJVsQtmR/DER.png)](https://postimg.cc/r0p5tJdF)
 
 ---
